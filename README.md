@@ -19,26 +19,26 @@ Here are some of the technologies I work with:
 
 ## 📂 Projects
 
-Here are some projects I've been working on:
+So far, only private projects.
 
-- **Project 1:** Description of project 1. [Repository Link](#)
-- **Project 2:** Description of project 2. [Repository Link](#)
-- **Project 3:** Description of project 3. [Repository Link](#)
+## 🔨 Work in Progress
+
+- **SGAI:** A project that is currently under development.
 
 ## 🌱 Learning
 
 Currently, I'm learning:
 
 - Rust
-- Backend development with Rust
-- Advanced React patterns
+- Go
+- Framer Motion
 
 ## 📫 Get in Touch
 
-- **Twitter:** [@yourTwitterHandle](https://twitter.com/yourTwitterHandle)
-- **LinkedIn:** [Your Name](https://www.linkedin.com/in/yourLinkedInHandle/)
-- **Email:** your.email@example.com
+- **Twitter:** [@samiLiebre](https://twitter.com/samiLiebre)
+- **Instagram:** [@samiliebre](https://instagram.com/samiliebre)
+- **Email:** samiLiebre@proton.me
 
 ## 🎉 Fun Fact
 
-- I love solving complex problems and always up for a challenge!
+- chocano always come back!!!
