@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @samiLiebre
+# 👋 Hi, I’m !Steel
 
 Welcome to my GitHub profile! Here’s a little bit about me:
 
@@ -29,9 +29,7 @@ So far, only private projects.
 
 Currently, I'm learning:
 
-- Rust
 - Go
-- Framer Motion
 
 ## 📫 Get in Touch
 
