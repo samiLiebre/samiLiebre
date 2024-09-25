@@ -7,8 +7,6 @@
 ###
 <h2 align="left">I code with</h2>
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="64" alt="javascript logo"  />
-  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="64" alt="typescript logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="64" alt="react logo"  />
