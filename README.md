@@ -1,8 +1,3 @@
-###
-
-<br clear="both">
-
-<img width="100%" height="150" src="https://j.gifs.com/5y8xPR.gif"  />
 
 ###
 <h2 align="left">I code with</h2>
