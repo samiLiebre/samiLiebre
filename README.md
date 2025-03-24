@@ -6,8 +6,6 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="64" alt="react logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="64" alt="nextjs logo"  />
-  <img width="10" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="64" alt="tailwindcss logo"  />
 </div>
 <br>
