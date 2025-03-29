@@ -9,5 +9,4 @@
   
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3177echmszhxndybnf7errx7vrem&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=ffffff&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=3177echmszhxndybnf7errx7vrem&redirect=true)
 
-
 <img align="right" src="https://profile-counter.glitch.me/samiLiebre/count.svg?"  />
